@@ -4,3 +4,4 @@
     url = gdrive://110VTefIDbHSDb9qLl5HyGBcJjEkdFVd4
     gdrive_use_service_account = true
     gdrive_service_account_json_file_path = C:\Users\ryann\dvc_demo\.dvc\credentials.json
+    gdrive_acknowledge_abuse = true
